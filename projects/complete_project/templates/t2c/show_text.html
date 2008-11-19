@@ -1,0 +1,21 @@
+{% extends "site_base.html" %}
+
+{% load i18n %}
+
+{% block body %}
+	            <h1>{{ text.title }}</h1>
+		    {% if can_read_this %}
+		    <p>
+		    Ersteller: {{ text.created_by }}
+		    {% if text.source %}
+		    <br />
+		    Quelle: {{ text.source }}
+                    {% endif %}
+		    <br /><br />
+                    {{ text.content }}
+                    </p>
+                    {% else %}
+                    Du hast keine Berechtigung diesen Text zu lesen.
+                    {% endif %}
+
+{% endblock %}
