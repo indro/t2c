@@ -1,0 +1,52 @@
+9
+
+dir
+77
+http://django-social-economics.googlecode.com/svn/trunk/django-social-economics/swaps/templates/notification
+http://django-social-economics.googlecode.com/svn
+
+
+
+2008-10-20T23:01:06.080844Z
+76
+leidel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cf15d161-e350-0410-b581-bbcf8588acff
+
+swaps_rejection
+dir
+
+swaps_responding_offer_changed
+dir
+
+swaps_comment
+dir
+
+swaps_acceptance
+dir
+
+swaps_proposing_offer_changed
+dir
+
+swaps_cancellation
+dir
+
+swaps_proposal
+dir
+
+swaps_conflict
+dir
+

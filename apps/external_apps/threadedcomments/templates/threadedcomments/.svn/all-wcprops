@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/76/trunk/threadedcomments/templates/threadedcomments
+END
+confirm_delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/71/trunk/threadedcomments/templates/threadedcomments/confirm_delete.html
+END
+preview_comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/71/trunk/threadedcomments/templates/threadedcomments/preview_comment.html
+END

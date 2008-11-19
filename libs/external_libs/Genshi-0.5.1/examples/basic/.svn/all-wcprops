@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/basic
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/basic/layout.html
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/basic/test.html
+END
+kidrun.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/basic/kidrun.py
+END
+layout.kid
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/basic/layout.kid
+END
+test.kid
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/basic/test.kid
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/basic/run.py
+END

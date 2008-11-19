@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/LICENSE
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/ez_setup.py
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/TODO
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/setup.py
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/CHANGES
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/MANIFEST.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/Makefile
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/setup.cfg
+END

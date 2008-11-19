@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/friends
+END
+join_invite_message.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/friends/join_invite_message.txt
+END
+join_invite_subject.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/friends/join_invite_subject.txt
+END

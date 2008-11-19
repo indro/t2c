@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/messages
+END
+inbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/1116/trunk/projects/complete_project/templates/messages/inbox.html
+END
+new_messages.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/messages/new_messages.html
+END
+outbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/1116/trunk/projects/complete_project/templates/messages/outbox.html
+END
+trash.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/1116/trunk/projects/complete_project/templates/messages/trash.html
+END
+compose.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/messages/compose.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/messages/base.html
+END
+view.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/1116/trunk/projects/complete_project/templates/messages/view.html
+END

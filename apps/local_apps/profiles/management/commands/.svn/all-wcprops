@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/1090/trunk/apps/local_apps/profiles/management/commands
+END
+cache_profile_feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/apps/local_apps/profiles/management/commands/cache_profile_feeds.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/1042/trunk/apps/local_apps/profiles/management/commands/__init__.py
+END

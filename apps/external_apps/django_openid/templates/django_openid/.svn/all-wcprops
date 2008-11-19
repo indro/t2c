@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/57/trunk/django_openid/templates/django_openid
+END
+decide.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/28/trunk/django_openid/templates/django_openid/decide.html
+END
+associations.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/50/trunk/django_openid/templates/django_openid/associations.html
+END
+admin_login.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/55/trunk/django_openid/templates/django_openid/admin_login.html
+END
+pick_account.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/56/trunk/django_openid/templates/django_openid/pick_account.html
+END
+this_is_an_openid_server.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/28/trunk/django_openid/templates/django_openid/this_is_an_openid_server.html
+END
+message.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/42/trunk/django_openid/templates/django_openid/message.html
+END
+register.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/57/trunk/django_openid/templates/django_openid/register.html
+END
+landing_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/trunk/django_openid/templates/django_openid/landing_page.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/django_openid/templates/django_openid/login.html
+END
+error.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/django_openid/templates/django_openid/error.html
+END
+_register_form_field.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/55/trunk/django_openid/templates/django_openid/_register_form_field.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/55/trunk/django_openid/templates/django_openid/base.html
+END
+associate.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/50/trunk/django_openid/templates/django_openid/associate.html
+END

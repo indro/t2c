@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/76/trunk/dbtemplates
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/75/trunk/dbtemplates/admin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/dbtemplates/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/65/trunk/dbtemplates/models.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/dbtemplates/cache.py
+END
+loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/59/trunk/dbtemplates/loader.py
+END

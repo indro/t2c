@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/bookmarks
+END
+friends_bookmarks.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/bookmarks/friends_bookmarks.html
+END
+your_bookmarks.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/1171/trunk/projects/complete_project/templates/bookmarks/your_bookmarks.html
+END
+add.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/bookmarks/add.html
+END
+bookmarks.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/bookmarks/bookmarks.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/999/trunk/projects/complete_project/templates/bookmarks/base.html
+END

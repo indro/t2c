@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test
+END
+discoverdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/discoverdata.py
+END
+test_xrires.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/test_xrires.py
+END
+test_discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/test_discover.py
+END
+livediscover.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/livediscover.py
+END
+test_accept.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/test_accept.py
+END
+test_parsehtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/test_parsehtml.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/__init__.py
+END
+runtests
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/runtests
+END
+test_xri.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/test_xri.py
+END
+test_etxrd.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/test_etxrd.py
+END

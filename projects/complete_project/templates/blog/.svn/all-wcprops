@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/blog
+END
+blog_item.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/1171/trunk/projects/complete_project/templates/blog/blog_item.html
+END
+friends_posts.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/999/trunk/projects/complete_project/templates/blog/friends_posts.html
+END
+edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/1068/trunk/projects/complete_project/templates/blog/edit.html
+END
+post.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/blog/post.html
+END
+blogs.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/1068/trunk/projects/complete_project/templates/blog/blogs.html
+END
+your_posts.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/blog/your_posts.html
+END
+new.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/1068/trunk/projects/complete_project/templates/blog/new.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/999/trunk/projects/complete_project/templates/blog/base.html
+END

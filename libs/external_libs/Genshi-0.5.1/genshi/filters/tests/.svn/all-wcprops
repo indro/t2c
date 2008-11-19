@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/filters/tests
+END
+transform.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/filters/tests/transform.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/filters/tests/__init__.py
+END
+i18n.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/filters/tests/i18n.py
+END
+html.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/filters/tests/html.py
+END

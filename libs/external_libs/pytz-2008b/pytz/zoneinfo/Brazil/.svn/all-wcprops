@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Brazil
+END
+West
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Brazil/West
+END
+Acre
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Brazil/Acre
+END
+East
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Brazil/East
+END
+DeNoronha
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Brazil/DeNoronha
+END

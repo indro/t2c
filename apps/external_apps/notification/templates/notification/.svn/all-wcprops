@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/notification/templates/notification
+END
+full.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112/trunk/notification/templates/notification/full.txt
+END
+email_body.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/trunk/notification/templates/notification/email_body.txt
+END
+email_subject.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/trunk/notification/templates/notification/email_subject.txt
+END
+notice.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112/trunk/notification/templates/notification/notice.html
+END
+full.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/79/trunk/notification/templates/notification/full.html
+END
+short.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/trunk/notification/templates/notification/short.txt
+END

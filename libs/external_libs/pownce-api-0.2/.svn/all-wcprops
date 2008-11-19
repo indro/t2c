@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/990/trunk/libs/external_libs/pownce-api-0.2
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/990/trunk/libs/external_libs/pownce-api-0.2/LICENSE
+END
+pownce.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/pownce-api-0.2/pownce.py
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/990/trunk/libs/external_libs/pownce-api-0.2/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/990/trunk/libs/external_libs/pownce-api-0.2/INSTALL
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/pownce-api-0.2/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/pownce-api-0.2/PKG-INFO
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/pinax/!svn/ver/990/trunk/libs/external_libs/pownce-api-0.2/README
+END

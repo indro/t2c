@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1208/trunk/projects/basic_project/templates
+END
+site_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/1204/trunk/projects/basic_project/templates/site_base.html
+END
+homepage.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/1052/trunk/projects/basic_project/templates/homepage.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/1190/trunk/projects/basic_project/templates/base.html
+END

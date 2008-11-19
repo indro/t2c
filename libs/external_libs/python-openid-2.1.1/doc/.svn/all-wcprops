@@ -1,0 +1,965 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc
+END
+openid.extension-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extension-module.html
+END
+indices.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/indices.html
+END
+openid.message-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.message-module.html
+END
+openid.server.server.OpenIDResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.OpenIDResponse-class.html
+END
+toc-openid.kvform-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.kvform-module.html
+END
+openid.server.server.VersionError-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.VersionError-class.html
+END
+openid.server.server.EncodingError-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.EncodingError-class.html
+END
+toc-openid.consumer.discover-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.consumer.discover-module.html
+END
+openid.message.NamespaceMap-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.message.NamespaceMap-class.html
+END
+openid.server.trustroot.TrustRoot-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.trustroot.TrustRoot-class.html
+END
+openid.extension.Extension-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extension.Extension-class.html
+END
+toc-openid.consumer.consumer-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.consumer.consumer-module.html
+END
+openid.consumer.consumer.AuthRequest-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.consumer.AuthRequest-class.html
+END
+toc-openid.store.interface-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.store.interface-module.html
+END
+toc-openid.yadis.services-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.services-module.html
+END
+toc-openid.dh-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.dh-module.html
+END
+toc-openid.consumer-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.consumer-module.html
+END
+trees.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/trees.html
+END
+toc-openid.extensions-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.extensions-module.html
+END
+openid.yadis.discover-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.discover-module.html
+END
+openid.store.filestore-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.filestore-module.html
+END
+toc-openid.server-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.server-module.html
+END
+toc-openid.store.sqlstore-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.store.sqlstore-module.html
+END
+openid.consumer.consumer.SuccessResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.consumer.SuccessResponse-class.html
+END
+openid.dh-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.dh-module.html
+END
+openid.extensions-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions-module.html
+END
+openid.server.server.DiffieHellmanSHA256ServerSession-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.DiffieHellmanSHA256ServerSession-class.html
+END
+toc-openid.extensions.pape-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.extensions.pape-module.html
+END
+openid.extensions.ax-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.ax-module.html
+END
+openid.server.server-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server-module.html
+END
+toc-openid.store.nonce-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.store.nonce-module.html
+END
+exceptions.Exception-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/exceptions.Exception-class.html
+END
+toc-openid.yadis.etxrd-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.etxrd-module.html
+END
+toc-openid.cryptutil-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.cryptutil-module.html
+END
+markupbase.ParserBase-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/markupbase.ParserBase-class.html
+END
+toc-openid.sreg-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.sreg-module.html
+END
+openid.yadis.xrires-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.xrires-module.html
+END
+toc-openid.extensions.ax-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.extensions.ax-module.html
+END
+openid.store.memstore.MemoryStore-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.memstore.MemoryStore-class.html
+END
+toc-openid.yadis.accept-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.accept-module.html
+END
+openid.store.interface-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.interface-module.html
+END
+openid.extensions.ax.FetchResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.ax.FetchResponse-class.html
+END
+toc-openid.server.server-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.server.server-module.html
+END
+openid.consumer.consumer.Consumer-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.consumer.Consumer-class.html
+END
+openid.server.server.Decoder-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.Decoder-class.html
+END
+openid.extensions.ax.StoreResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.ax.StoreResponse-class.html
+END
+openid.extensions.pape.Response-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.pape.Response-class.html
+END
+openid.store.filestore.FileOpenIDStore-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.filestore.FileOpenIDStore-class.html
+END
+openid.yadis.xrires.ProxyResolver-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.xrires.ProxyResolver-class.html
+END
+exceptions.ValueError-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/exceptions.ValueError-class.html
+END
+__builtin__.object-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/__builtin__.object-class.html
+END
+openid.association-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.association-module.html
+END
+openid.server.server.OpenIDRequest-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.OpenIDRequest-class.html
+END
+openid.extensions.pape-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.pape-module.html
+END
+toc-openid-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid-module.html
+END
+toc.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc.html
+END
+openid.message.Message-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.message.Message-class.html
+END
+openid.server.trustroot-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.trustroot-module.html
+END
+openid.store-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store-module.html
+END
+openid.server.server.CheckIDRequest-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.CheckIDRequest-class.html
+END
+toc-openid.yadis.xri-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.xri-module.html
+END
+openid.fetchers.HTTPFetcher-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.fetchers.HTTPFetcher-class.html
+END
+openid.fetchers-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.fetchers-module.html
+END
+openid.consumer.discover-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.discover-module.html
+END
+openid.server.server.Encoder-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.Encoder-class.html
+END
+openid.server.server.UntrustedReturnURL-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.UntrustedReturnURL-class.html
+END
+toc-openid.store-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.store-module.html
+END
+__builtin__.type-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/__builtin__.type-class.html
+END
+openid.consumer.consumer-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.consumer-module.html
+END
+openid.server.server.WebResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.WebResponse-class.html
+END
+openid.store.memstore-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.memstore-module.html
+END
+openid.store.memstore.ServerAssocs-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.memstore.ServerAssocs-class.html
+END
+help.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/help.html
+END
+openid.yadis.filters.CompoundFilter-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.filters.CompoundFilter-class.html
+END
+toc-openid.yadis.parsehtml-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.parsehtml-module.html
+END
+openid.extensions.pape.Request-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.pape.Request-class.html
+END
+openid.extensions.ax.StoreRequest-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.ax.StoreRequest-class.html
+END
+toc-openid.extension-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.extension-module.html
+END
+openid.sreg-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.sreg-module.html
+END
+openid-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid-module.html
+END
+openid.store.sqlstore.SQLStore-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.sqlstore.SQLStore-class.html
+END
+openid.kvform-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.kvform-module.html
+END
+openid.server.server.ProtocolError-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.ProtocolError-class.html
+END
+toc-openid.yadis.constants-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.constants-module.html
+END
+openid.association.Association-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.association.Association-class.html
+END
+openid.yadis.accept-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.accept-module.html
+END
+openid.yadis.manager.Discovery-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.manager.Discovery-class.html
+END
+toc-openid.yadis.discover-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.discover-module.html
+END
+openid.fetchers.HTTPError-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.fetchers.HTTPError-class.html
+END
+exceptions.BaseException-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/exceptions.BaseException-class.html
+END
+toc-openid.server.trustroot-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.server.trustroot-module.html
+END
+toc-openid.urinorm-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.urinorm-module.html
+END
+openid.fetchers.HTTPResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.fetchers.HTTPResponse-class.html
+END
+openid.yadis.discover.DiscoveryFailure-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.discover.DiscoveryFailure-class.html
+END
+toc-openid.fetchers-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.fetchers-module.html
+END
+openid.extensions.sreg.SRegRequest-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.sreg.SRegRequest-class.html
+END
+openid.yadis.manager.YadisServiceManager-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.manager.YadisServiceManager-class.html
+END
+openid.consumer.html_parse-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.html_parse-module.html
+END
+openid.yadis.services-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.services-module.html
+END
+toc-openid.oidutil-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.oidutil-module.html
+END
+openid.cryptutil-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.cryptutil-module.html
+END
+toc-openid.association-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.association-module.html
+END
+openid.yadis.filters.TransformFilterMaker-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.filters.TransformFilterMaker-class.html
+END
+openid.dh.DiffieHellman-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.dh.DiffieHellman-class.html
+END
+openid.yadis.filters.BasicServiceEndpoint-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.filters.BasicServiceEndpoint-class.html
+END
+openid.store.sqlstore.SQLiteStore-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.sqlstore.SQLiteStore-class.html
+END
+openid.server-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server-module.html
+END
+openid.server.server.MalformedTrustRoot-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.MalformedTrustRoot-class.html
+END
+epydoc.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/epydoc.css
+END
+openid.store.sqlstore-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.sqlstore-module.html
+END
+openid.yadis.parsehtml-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.parsehtml-module.html
+END
+toc-everything.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-everything.html
+END
+openid.consumer.consumer.CancelResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.consumer.CancelResponse-class.html
+END
+openid.consumer.consumer.FailureResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.consumer.FailureResponse-class.html
+END
+openid.yadis.discover.DiscoveryResult-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.discover.DiscoveryResult-class.html
+END
+frames.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/frames.html
+END
+openid.server.server.AssociateRequest-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.AssociateRequest-class.html
+END
+toc-openid.extensions.sreg-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.extensions.sreg-module.html
+END
+openid.yadis.manager-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.manager-module.html
+END
+openid.fetchers.HTTPFetchingError-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.fetchers.HTTPFetchingError-class.html
+END
+openid.server.server.MalformedReturnURL-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.MalformedReturnURL-class.html
+END
+openid.yadis.constants-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.constants-module.html
+END
+openid.server.server.SigningEncoder-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.SigningEncoder-class.html
+END
+openid.yadis.parsehtml.MetaNotFound-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.parsehtml.MetaNotFound-class.html
+END
+openid.urinorm-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.urinorm-module.html
+END
+exceptions.StandardError-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/exceptions.StandardError-class.html
+END
+openid.server.server.PlainTextServerSession-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.PlainTextServerSession-class.html
+END
+HTMLParser.HTMLParser-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/HTMLParser.HTMLParser-class.html
+END
+openid.server.server.AlreadySigned-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.AlreadySigned-class.html
+END
+toc-openid.yadis.manager-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.manager-module.html
+END
+toc-openid.message-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.message-module.html
+END
+openid.yadis-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis-module.html
+END
+openid.server.server.Signatory-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.Signatory-class.html
+END
+openid.oidutil-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.oidutil-module.html
+END
+openid.yadis.xri-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.xri-module.html
+END
+openid.yadis.filters-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.filters-module.html
+END
+openid.server.server.NoReturnToError-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.NoReturnToError-class.html
+END
+openid.consumer.discover.OpenIDServiceEndpoint-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.discover.OpenIDServiceEndpoint-class.html
+END
+openid.extensions.ax.FetchRequest-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.ax.FetchRequest-class.html
+END
+openid.consumer.consumer.SetupNeededResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer.consumer.SetupNeededResponse-class.html
+END
+openid.server.server.DiffieHellmanSHA1ServerSession-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.DiffieHellmanSHA1ServerSession-class.html
+END
+openid.consumer-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.consumer-module.html
+END
+openid.extensions.sreg.SRegResponse-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.sreg.SRegResponse-class.html
+END
+toc-openid.yadis-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis-module.html
+END
+openid.yadis.filters.IFilter-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.filters.IFilter-class.html
+END
+openid.store.nonce-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.nonce-module.html
+END
+openid.yadis.etxrd-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.yadis.etxrd-module.html
+END
+openid.extensions.sreg-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.extensions.sreg-module.html
+END
+openid.server.server.Server-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.Server-class.html
+END
+openid.server.server.CheckAuthRequest-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.server.server.CheckAuthRequest-class.html
+END
+toc-openid.yadis.filters-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.filters-module.html
+END
+openid.store.interface.OpenIDStore-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.interface.OpenIDStore-class.html
+END
+openid.store.sqlstore.PostgreSQLStore-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.sqlstore.PostgreSQLStore-class.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/index.html
+END
+toc-openid.yadis.xrires-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.yadis.xrires-module.html
+END
+openid.store.sqlstore.MySQLStore-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.store.sqlstore.MySQLStore-class.html
+END
+toc-openid.store.memstore-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.store.memstore-module.html
+END
+openid.association.SessionNegotiator-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/openid.association.SessionNegotiator-class.html
+END
+toc-openid.store.filestore-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.store.filestore-module.html
+END
+toc-openid.consumer.html_parse-module.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/doc/toc-openid.consumer.html_parse-module.html
+END

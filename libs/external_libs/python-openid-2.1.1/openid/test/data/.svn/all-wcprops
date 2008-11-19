@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data
+END
+openid-1.2-consumer-sqlitestore.db
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/openid-1.2-consumer-sqlitestore.db
+END
+example-xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/example-xrds.xml
+END
+test1-discover.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test1-discover.txt
+END
+test1-parsehtml.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test1-parsehtml.txt
+END
+accept.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/accept.txt
+END

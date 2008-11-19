@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/1052/trunk/projects/basic_project/templates/emailconfirmation
+END
+email_confirmation_message.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/1052/trunk/projects/basic_project/templates/emailconfirmation/email_confirmation_message.txt
+END
+confirm_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/1052/trunk/projects/basic_project/templates/emailconfirmation/confirm_email.html
+END
+email_confirmation_subject.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/1052/trunk/projects/basic_project/templates/emailconfirmation/email_confirmation_subject.txt
+END

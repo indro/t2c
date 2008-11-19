@@ -1,0 +1,34 @@
+9
+
+dir
+1208
+http://svn.pinaxproject.com/pinax/trunk/libs/external_libs/geopy-trunk/build
+http://svn.pinaxproject.com/pinax
+
+
+
+2008-08-17T08:41:28.152357Z
+764
+jtauber
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+45601e1e-1555-4799-bd40-45c8c71eef50
+
+lib
+dir
+
+bdist.linux-i686
+dir
+

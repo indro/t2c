@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python
+END
+test_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python/test_parser.py
+END
+test_token_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python/test_token_parser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python/__init__.py
+END
+showdoc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python/showdoc
+END
+showast
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python/showast
+END
+showparse
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python/showparse
+END
+showtok
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python/showtok
+END
+test_functions.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_python/test_functions.py
+END

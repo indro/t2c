@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pinax/!svn/ver/1201/trunk/apps/local_apps/projects
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/1026/trunk/apps/local_apps/projects/admin.py
+END
+thing.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/1026/trunk/apps/local_apps/projects/thing.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/pinax/!svn/ver/1032/trunk/apps/local_apps/projects/management.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/1201/trunk/apps/local_apps/projects/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/pinax/!svn/ver/990/trunk/apps/local_apps/projects/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/1026/trunk/apps/local_apps/projects/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1032/trunk/apps/local_apps/projects/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/1160/trunk/apps/local_apps/projects/forms.py
+END

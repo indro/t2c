@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/180/trunk/wiki
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/127/trunk/wiki/admin.py
+END
+static_urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/40/trunk/wiki/static_urls.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/155/trunk/wiki/management.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/177/trunk/wiki/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/130/trunk/wiki/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/150/trunk/wiki/utils.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/169/trunk/wiki/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/163/trunk/wiki/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/145/trunk/wiki/forms.py
+END
+feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/132/trunk/wiki/feeds.py
+END

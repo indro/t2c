@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/manage.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/util.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/urls.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/README
+END

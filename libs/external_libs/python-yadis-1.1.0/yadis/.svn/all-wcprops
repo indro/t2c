@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis
+END
+filters.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/filters.py
+END
+manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/manager.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/constants.py
+END
+xrires.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/xrires.py
+END
+discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/discover.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/__init__.py
+END
+accept.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/accept.py
+END
+parsehtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/parsehtml.py
+END
+xri.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/xri.py
+END
+services.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/services.py
+END
+etxrd.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/etxrd.py
+END

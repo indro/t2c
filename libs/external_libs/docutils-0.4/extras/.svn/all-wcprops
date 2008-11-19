@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/extras
+END
+roman.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/extras/roman.py
+END
+optparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/extras/optparse.py
+END
+textwrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/extras/textwrap.py
+END

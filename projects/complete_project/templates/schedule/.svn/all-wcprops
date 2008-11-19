@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/1174/trunk/projects/complete_project/templates/schedule
+END
+event.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/1169/trunk/projects/complete_project/templates/schedule/event.html
+END
+create_event.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/1174/trunk/projects/complete_project/templates/schedule/create_event.html
+END
+calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/1169/trunk/projects/complete_project/templates/schedule/calendar.html
+END

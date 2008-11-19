@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/spreadsheet
+END
+text_db.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/spreadsheet/text_db.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/spreadsheet/__init__.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/spreadsheet/service.py
+END

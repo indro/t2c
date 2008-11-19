@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pinax/!svn/ver/990/trunk/apps/local_apps/projects/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/apps/local_apps/projects/templatetags/__init__.py
+END
+project_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/apps/local_apps/projects/templatetags/project_tags.py
+END

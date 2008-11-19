@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data
+END
+list_table.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/list_table.txt
+END
+nonalphanumeric.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/nonalphanumeric.txt
+END
+header_footer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/header_footer.txt
+END
+table_colspan.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/table_colspan.txt
+END
+unicode.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/unicode.txt
+END
+errors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/errors.txt
+END
+latex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/latex.txt
+END
+custom_roles.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/custom_roles.txt
+END
+table_complex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/table_complex.txt
+END
+standard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/standard.txt
+END
+table_rowspan.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/data/table_rowspan.txt
+END

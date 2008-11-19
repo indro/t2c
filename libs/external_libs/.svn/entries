@@ -1,0 +1,153 @@
+9
+
+dir
+1208
+http://svn.pinaxproject.com/pinax/trunk/libs/external_libs
+http://svn.pinaxproject.com/pinax
+
+
+
+2008-10-07T11:24:56.198606Z
+1025
+jtauber
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+45601e1e-1555-4799-bd40-45c8c71eef50
+
+feedparser-4.1
+dir
+
+python-twitter-0.5
+dir
+
+Pygments-0.11.1
+dir
+
+python-yadis-1.1.0
+dir
+
+Creoleparser-0.5.0
+dir
+
+geopy-trunk
+dir
+
+docutils-0.4
+dir
+
+gdata.py-1.0.13
+dir
+
+markdown-1.7
+dir
+
+simplejson-1.9.1
+dir
+
+python-openid-2.1.1
+dir
+
+textile-2.0.11
+dir
+
+misc
+dir
+
+update.sh
+file
+
+
+
+
+2008-11-19T14:41:45.000000Z
+113d3d9dbbee9f0205fece60e25f787b
+2008-06-04T01:06:25.647837Z
+291
+doug.napoleone
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+130
+
+ybrowserauth
+dir
+
+pytz-2008b
+dir
+
+pownce-api-0.2
+dir
+
+vobject-0.6.6
+dir
+
+packages.pth
+file
+
+
+
+
+2008-11-19T14:41:45.000000Z
+62766d343ba78b788fe68e9f7334f477
+2008-09-12T08:48:34.600825Z
+875
+jtauber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+274
+
+dateutil
+dir
+
+Genshi-0.5.1
+dir
+

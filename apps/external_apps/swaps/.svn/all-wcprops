@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/77/trunk/django-social-economics/swaps
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26/trunk/django-social-economics/swaps/admin.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/68/trunk/django-social-economics/swaps/management.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/trunk/django-social-economics/swaps/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/19/trunk/django-social-economics/swaps/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/26/trunk/django-social-economics/swaps/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/77/trunk/django-social-economics/swaps/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/trunk/django-social-economics/swaps/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/43/trunk/django-social-economics/swaps/forms.py
+END

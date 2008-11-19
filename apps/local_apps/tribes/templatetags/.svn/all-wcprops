@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/990/trunk/apps/local_apps/tribes/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/apps/local_apps/tribes/templatetags/__init__.py
+END
+tribe_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/apps/local_apps/tribes/templatetags/tribe_tags.py
+END

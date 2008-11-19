@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref
+END
+docutils.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/docutils.dtd
+END
+soextblx.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/soextblx.dtd
+END
+doctree.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/doctree.txt
+END
+transforms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/transforms.txt
+END

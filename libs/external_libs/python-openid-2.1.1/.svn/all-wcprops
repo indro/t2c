@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/LICENSE
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/CHANGELOG
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/PKG-INFO
+END
+background-associations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/background-associations.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/MANIFEST.in
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/README
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/setup.cfg
+END

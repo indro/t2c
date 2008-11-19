@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/pinax/!svn/ver/1204/trunk/apps/external_apps
+END
+django_openid_requestcontext.diff
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/1204/trunk/apps/external_apps/django_openid_requestcontext.diff
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/990/trunk/apps/external_apps/__init__.py
+END
+svn.externals
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1202/trunk/apps/external_apps/svn.externals
+END

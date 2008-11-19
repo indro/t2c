@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/user/rst
+END
+demo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/user/rst/demo.txt
+END
+quickstart.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/user/rst/quickstart.txt
+END
+cheatsheet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/user/rst/cheatsheet.txt
+END
+quickref.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/user/rst/quickref.html
+END

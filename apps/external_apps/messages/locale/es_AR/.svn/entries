@@ -1,0 +1,31 @@
+9
+
+dir
+81
+http://django-messages.googlecode.com/svn/trunk/messages/locale/es_AR
+http://django-messages.googlecode.com/svn
+
+
+
+2008-07-20T11:42:32.760590Z
+51
+leidel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b6a2a13a-764b-0410-8c04-89e9a283537e
+
+LC_MESSAGES
+dir
+

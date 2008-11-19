@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/writers/newlatex2e
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/writers/newlatex2e/__init__.py
+END
+base.tex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/writers/newlatex2e/base.tex
+END
+unicode_map.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/writers/newlatex2e/unicode_map.py
+END

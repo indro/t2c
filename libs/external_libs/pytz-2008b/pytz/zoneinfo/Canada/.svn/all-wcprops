@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada
+END
+Atlantic
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/Atlantic
+END
+Eastern
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/Eastern
+END
+Newfoundland
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/Newfoundland
+END
+Yukon
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/Yukon
+END
+East-Saskatchewan
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/East-Saskatchewan
+END
+Central
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/Central
+END
+Mountain
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/Mountain
+END
+Saskatchewan
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/Saskatchewan
+END
+Pacific
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Canada/Pacific
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/kid
+END
+base.kid
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/kid/base.kid
+END
+template.kid
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/kid/template.kid
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test
+END
+linkparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/linkparse.py
+END
+test_association_response.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_association_response.py
+END
+test_consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_consumer.py
+END
+storetest.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/storetest.py
+END
+test_parsehtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_parsehtml.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/__init__.py
+END
+cryptutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/cryptutil.py
+END
+test_sreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_sreg.py
+END
+test_nonce.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_nonce.py
+END
+test_xri.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_xri.py
+END
+test_htmldiscover.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_htmldiscover.py
+END
+test_fetchers.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_fetchers.py
+END
+test_rpverify.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_rpverify.py
+END
+test_openidyadis.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_openidyadis.py
+END
+test_ax.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_ax.py
+END
+discoverdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/discoverdata.py
+END
+test_association.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_association.py
+END
+trustroot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/trustroot.txt
+END
+test_discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_discover.py
+END
+test_examples.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_examples.py
+END
+linkparse.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/linkparse.txt
+END
+test_negotiation.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_negotiation.py
+END
+urinorm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/urinorm.txt
+END
+test_pape.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_pape.py
+END
+trustroot.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/trustroot.py
+END
+test_etxrd.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_etxrd.py
+END
+test_urinorm.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_urinorm.py
+END
+dh.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/dh.py
+END
+test_accept.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_accept.py
+END
+test_symbol.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_symbol.py
+END
+n2b64
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/n2b64
+END
+kvform.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/kvform.py
+END
+dhpriv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/dhpriv
+END
+test_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_server.py
+END
+test_yadis_discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_yadis_discover.py
+END
+test_auth_request.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_auth_request.py
+END
+oidutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/oidutil.py
+END
+test_xrires.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_xrires.py
+END
+support.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/support.py
+END
+datadriven.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/datadriven.py
+END
+test_services.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_services.py
+END
+test_message.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_message.py
+END
+test_verifydisco.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/test_verifydisco.py
+END

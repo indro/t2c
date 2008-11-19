@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/1063/trunk/projects/basic_project/templates/announcements
+END
+announcement_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/1063/trunk/projects/basic_project/templates/announcements/announcement_detail.html
+END
+announcement_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/1063/trunk/projects/basic_project/templates/announcements/announcement_list.html
+END

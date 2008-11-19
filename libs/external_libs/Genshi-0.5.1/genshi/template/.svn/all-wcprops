@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/1025/trunk/libs/external_libs/Genshi-0.5.1/genshi/template
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/base.py
+END
+plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/plugin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/__init__.py
+END
+markup.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/markup.py
+END
+directives.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/directives.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/text.py
+END
+loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/loader.py
+END
+eval.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/eval.py
+END
+interpolation.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/genshi/template/interpolation.py
+END

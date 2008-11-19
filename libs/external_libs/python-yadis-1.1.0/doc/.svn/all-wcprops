@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc
+END
+spec-rfc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/spec-rfc.txt
+END
+what-is-yadis.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/what-is-yadis.txt
+END
+openid-yadis.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/openid-yadis.txt
+END
+creating-xrd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/creating-xrd.txt
+END
+apache-config.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/apache-config.html
+END
+openid-xml-schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/openid-xml-schema.xml
+END
+retrieval.dia
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/retrieval.dia
+END
+default.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/default.css
+END
+sample-xrd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/doc/sample-xrd.xml
+END

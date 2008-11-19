@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/108/trunk/notification/management/commands
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/78/trunk/notification/management/commands/__init__.py
+END
+emit_notices.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/97/trunk/notification/management/commands/emit_notices.py
+END

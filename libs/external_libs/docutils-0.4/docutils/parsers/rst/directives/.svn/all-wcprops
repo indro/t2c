@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives
+END
+parts.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/parts.py
+END
+tables.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/tables.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/misc.py
+END
+body.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/body.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/__init__.py
+END
+references.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/references.py
+END
+admonitions.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/admonitions.py
+END
+html.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/html.py
+END
+images.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/parsers/rst/directives/images.py
+END

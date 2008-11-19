@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools
+END
+rst2latex.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/rst2latex.py
+END
+rst2pseudoxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/rst2pseudoxml.py
+END
+rst2xml.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/rst2xml.py
+END
+quicktest.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/quicktest.py
+END
+rst2html.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/rst2html.py
+END
+rst2newlatex.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/rst2newlatex.py
+END
+rst2s5.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/rst2s5.py
+END
+docutils.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/docutils.conf
+END
+buildhtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/buildhtml.py
+END
+rstpep2html.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/rstpep2html.py
+END

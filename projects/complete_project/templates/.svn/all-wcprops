@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/pinax/!svn/ver/1208/trunk/projects/complete_project/templates
+END
+site_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/1204/trunk/projects/complete_project/templates/site_base.html
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/500.html
+END
+homepage.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/homepage.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/404.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/1191/trunk/projects/complete_project/templates/base.html
+END

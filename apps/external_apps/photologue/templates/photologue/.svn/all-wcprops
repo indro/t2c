@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/350/trunk/photologue/templates/photologue
+END
+gallery_archive_day.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/gallery_archive_day.html
+END
+photo_archive_month.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/photo_archive_month.html
+END
+gallery_archive.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/gallery_archive.html
+END
+gallery_archive_year.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/gallery_archive_year.html
+END
+gallery_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/gallery_detail.html
+END
+root.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/root.html
+END
+photo_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/photo_list.html
+END
+gallery_archive_month.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/gallery_archive_month.html
+END
+photo_archive_day.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/photo_archive_day.html
+END
+gallery_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/gallery_list.html
+END
+photo_archive.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/photo_archive.html
+END
+photo_archive_year.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/266/trunk/photologue/templates/photologue/photo_archive_year.html
+END
+photo_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/350/trunk/photologue/templates/photologue/photo_detail.html
+END

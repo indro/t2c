@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/build/lib/geopy
+END
+geocoders.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/build/lib/geopy/geocoders.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/build/lib/geopy/__init__.py
+END

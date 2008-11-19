@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/pinax/!svn/ver/1010/trunk/apps/local_apps/authsub
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1010/trunk/apps/local_apps/authsub/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/990/trunk/apps/local_apps/authsub/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/990/trunk/apps/local_apps/authsub/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pinax/!svn/ver/990/trunk/apps/local_apps/authsub/urls.py
+END

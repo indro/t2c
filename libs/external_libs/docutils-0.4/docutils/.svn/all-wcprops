@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/core.py
+END
+nodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/nodes.py
+END
+examples.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/examples.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/__init__.py
+END
+frontend.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/frontend.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/utils.py
+END
+docutils.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/docutils.conf
+END
+statemachine.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/statemachine.py
+END
+io.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/io.py
+END
+urischemes.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/urischemes.py
+END

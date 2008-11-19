@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/pinax/!svn/ver/1025/trunk/libs/external_libs
+END
+packages.pth
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pinax/!svn/ver/990/trunk/libs/external_libs/packages.pth
+END
+update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pinax/!svn/ver/990/trunk/libs/external_libs/update.sh
+END

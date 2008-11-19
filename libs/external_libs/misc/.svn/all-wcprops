@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pinax/!svn/ver/990/trunk/libs/external_libs/misc
+END
+atomformat.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pinax/!svn/ver/990/trunk/libs/external_libs/misc/atomformat.py
+END
+diff_match_patch.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/misc/diff_match_patch.py
+END

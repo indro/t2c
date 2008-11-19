@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test
+END
+package_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/package_unittest.py
+END
+alltests.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/alltests.py
+END
+test_publisher.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_publisher.py
+END
+test_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_utils.py
+END
+test_settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_settings.py
+END
+test_functional.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_functional.py
+END
+test_statemachine.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_statemachine.py
+END
+test_viewlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_viewlist.py
+END
+docutils_difflib.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/docutils_difflib.py
+END
+test_io.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_io.py
+END
+test_nodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_nodes.py
+END
+coverage.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/coverage.sh
+END
+test_language.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_language.py
+END
+DocutilsTestSupport.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/DocutilsTestSupport.py
+END
+docutils.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/docutils.conf
+END
+test_dependencies.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_dependencies.py
+END

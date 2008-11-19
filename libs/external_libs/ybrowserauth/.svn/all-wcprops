@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pinax/!svn/ver/990/trunk/libs/external_libs/ybrowserauth
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/ybrowserauth/changelog.txt
+END
+ybrowserauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/ybrowserauth/ybrowserauth.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/pinax/!svn/ver/990/trunk/libs/external_libs/ybrowserauth/setup.py
+END
+bbatestPHOTOS.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/ybrowserauth/bbatestPHOTOS.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/ybrowserauth/readme.txt
+END
+HTACCESS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/pinax/!svn/ver/990/trunk/libs/external_libs/ybrowserauth/HTACCESS
+END
+bbatestMAIL.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/ybrowserauth/bbatestMAIL.py
+END

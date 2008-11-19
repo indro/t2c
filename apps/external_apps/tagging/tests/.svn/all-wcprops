@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/148/branches/newforms-admin/tagging/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/139/branches/newforms-admin/tagging/tests/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/139/branches/newforms-admin/tagging/tests/settings.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/148/branches/newforms-admin/tagging/tests/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/139/branches/newforms-admin/tagging/tests/models.py
+END
+tags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/139/branches/newforms-admin/tagging/tests/tags.txt
+END

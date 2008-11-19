@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/extensions
+END
+ax.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/extensions/ax.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/extensions/__init__.py
+END
+sreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/extensions/sreg.py
+END
+pape.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/extensions/pape.py
+END

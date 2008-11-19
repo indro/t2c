@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/80/trunk/messages/templates/notification/messages_deleted
+END
+full.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/80/trunk/messages/templates/notification/messages_deleted/full.txt
+END
+notice.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/messages/templates/notification/messages_deleted/notice.html
+END

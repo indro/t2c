@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles
+END
+vs.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/vs.py
+END
+emacs.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/emacs.py
+END
+perldoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/perldoc.py
+END
+trac.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/trac.py
+END
+vim.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/vim.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/__init__.py
+END
+manni.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/manni.py
+END
+bw.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/bw.py
+END
+autumn.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/autumn.py
+END
+friendly.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/friendly.py
+END
+borland.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/borland.py
+END
+fruity.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/fruity.py
+END
+default.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/default.py
+END
+murphy.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/murphy.py
+END
+colorful.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/colorful.py
+END
+pastie.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/pastie.py
+END
+native.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/Pygments-0.11.1/pygments/styles/native.py
+END

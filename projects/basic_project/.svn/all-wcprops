@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pinax/!svn/ver/1208/trunk/projects/basic_project
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1184/trunk/projects/basic_project/manage.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/1052/trunk/projects/basic_project/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/1204/trunk/projects/basic_project/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pinax/!svn/ver/1204/trunk/projects/basic_project/urls.py
+END

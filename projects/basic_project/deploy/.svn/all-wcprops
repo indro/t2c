@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/1184/trunk/projects/basic_project/deploy
+END
+basic_project.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/1184/trunk/projects/basic_project/deploy/basic_project.wsgi
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/1130/trunk/projects/basic_project/deploy/__init__.py
+END
+modpython.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/1184/trunk/projects/basic_project/deploy/modpython.py
+END

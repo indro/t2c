@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data
+END
+config_list_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/config_list_2.txt
+END
+config_old.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/config_old.txt
+END
+csv_dep.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/csv_dep.txt
+END
+include.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/include.txt
+END
+csv_data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/csv_data.txt
+END
+config_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/config_1.txt
+END
+config_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/config_2.txt
+END
+dependencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/dependencies.txt
+END
+raw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/raw.txt
+END
+stylesheet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/stylesheet.txt
+END
+config_error_handler.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/config_error_handler.txt
+END
+config_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/data/config_list.txt
+END

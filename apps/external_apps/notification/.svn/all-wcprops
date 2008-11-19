@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/112/trunk/notification
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/83/trunk/notification/admin.py
+END
+lockfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/97/trunk/notification/lockfile.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/96/trunk/notification/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/notification/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/110/trunk/notification/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/88/trunk/notification/urls.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/87/trunk/notification/decorators.py
+END
+engine.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/107/trunk/notification/engine.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/70/trunk/notification/context_processors.py
+END
+feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/88/trunk/notification/feeds.py
+END

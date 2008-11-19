@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/1206/trunk/projects/complete_project/templates/account
+END
+password_set.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/1204/trunk/projects/complete_project/templates/account/password_set.html
+END
+password_reset_message.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/password_reset_message.txt
+END
+password_delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/1204/trunk/projects/complete_project/templates/account/password_delete.html
+END
+other_services.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/other_services.html
+END
+email.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/email.html
+END
+language_change.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/language_change.html
+END
+password_delete_done.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/1204/trunk/projects/complete_project/templates/account/password_delete_done.html
+END
+timezone_change.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/timezone_change.html
+END
+password_reset.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/password_reset.html
+END
+signup.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/signup.html
+END
+password_change.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/password_change.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/1206/trunk/projects/complete_project/templates/account/login.html
+END
+password_reset_done.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/password_reset_done.html
+END
+logout.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/account/logout.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/1204/trunk/projects/complete_project/templates/account/base.html
+END

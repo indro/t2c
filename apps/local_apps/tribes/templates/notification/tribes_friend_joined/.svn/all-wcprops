@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/1134/trunk/apps/local_apps/tribes/templates/notification/tribes_friend_joined
+END
+full.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/1134/trunk/apps/local_apps/tribes/templates/notification/tribes_friend_joined/full.txt
+END
+notice.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/1134/trunk/apps/local_apps/tribes/templates/notification/tribes_friend_joined/notice.html
+END

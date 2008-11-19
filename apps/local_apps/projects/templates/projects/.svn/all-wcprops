@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/1014/trunk/apps/local_apps/projects/templates/projects
+END
+topic_item.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/1014/trunk/apps/local_apps/projects/templates/projects/topic_item.html
+END
+task_item.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/1014/trunk/apps/local_apps/projects/templates/projects/task_item.html
+END
+project_item.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/1014/trunk/apps/local_apps/projects/templates/projects/project_item.html
+END

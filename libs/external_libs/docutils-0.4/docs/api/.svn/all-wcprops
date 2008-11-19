@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/api
+END
+runtime-settings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/api/runtime-settings.txt
+END
+cmdline-tool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/api/cmdline-tool.txt
+END
+publisher.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/api/publisher.txt
+END

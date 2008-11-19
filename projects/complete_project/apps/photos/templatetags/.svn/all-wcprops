@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/photos/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/photos/templatetags/__init__.py
+END
+photo_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/photos/templatetags/photo_tags.py
+END

@@ -1,0 +1,31 @@
+9
+
+dir
+27
+http://django-robots.googlecode.com/svn/trunk/robots/locale/de
+http://django-robots.googlecode.com/svn
+
+
+
+2008-08-27T16:45:27.471129Z
+21
+leidel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+12edf5ea-513a-0410-8a8c-37067077e60f
+
+LC_MESSAGES
+dir
+

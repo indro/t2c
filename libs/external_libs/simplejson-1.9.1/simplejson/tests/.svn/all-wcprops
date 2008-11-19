@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests
+END
+test_pass3.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_pass3.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/__init__.py
+END
+test_float.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_float.py
+END
+test_dump.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_dump.py
+END
+test_recursion.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_recursion.py
+END
+test_scanstring.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_scanstring.py
+END
+test_fail.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_fail.py
+END
+test_indent.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_indent.py
+END
+test_separators.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_separators.py
+END
+test_decode.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_decode.py
+END
+test_default.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_default.py
+END
+test_unicode.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_unicode.py
+END
+test_encode_basestring_ascii.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_encode_basestring_ascii.py
+END
+test_pass1.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_pass1.py
+END
+test_pass2.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/simplejson/tests/test_pass2.py
+END

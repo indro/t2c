@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/pinax/!svn/ver/1134/trunk/apps/local_apps/blog
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/1065/trunk/apps/local_apps/blog/admin.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/990/trunk/apps/local_apps/blog/management.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/1029/trunk/apps/local_apps/blog/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1066/trunk/apps/local_apps/blog/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pinax/!svn/ver/1011/trunk/apps/local_apps/blog/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pinax/!svn/ver/990/trunk/apps/local_apps/blog/urls.py
+END
+feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pinax/!svn/ver/990/trunk/apps/local_apps/blog/feeds.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/1084/trunk/apps/local_apps/blog/forms.py
+END

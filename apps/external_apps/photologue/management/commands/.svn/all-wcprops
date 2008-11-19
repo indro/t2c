@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/296/trunk/photologue/management/commands
+END
+plcreatesize.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/296/trunk/photologue/management/commands/plcreatesize.py
+END
+plflush.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/296/trunk/photologue/management/commands/plflush.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/296/trunk/photologue/management/commands/__init__.py
+END
+plcache.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/296/trunk/photologue/management/commands/plcache.py
+END
+plinit.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/296/trunk/photologue/management/commands/plinit.py
+END

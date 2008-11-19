@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/rst
+END
+directives.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/rst/directives.txt
+END
+introduction.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/rst/introduction.txt
+END
+roles.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/rst/roles.txt
+END
+definitions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/rst/definitions.txt
+END
+restructuredtext.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docs/ref/rst/restructuredtext.txt
+END

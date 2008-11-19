@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples
+END
+rss20dc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/rss20dc.xml
+END
+rss10.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/rss10.rdf
+END
+digest_auth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/digest_auth.xml
+END
+atom10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/atom10.xml
+END
+basic_auth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/basic_auth.xml
+END
+nonstandard_prefix.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/nonstandard_prefix.rdf
+END
+atom03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/atom03.xml
+END
+prism.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/prism.rdf
+END
+no_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/no_base.xml
+END
+rss20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/rss20.xml
+END
+http_base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/http_base.xml
+END
+base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/base.xml
+END
+.htpasswd_digest
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/.htpasswd_digest
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/.htaccess
+END
+.htpasswd_basic
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/examples/.htpasswd_basic
+END

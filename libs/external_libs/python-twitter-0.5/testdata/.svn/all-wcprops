@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata
+END
+status-destroy.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/status-destroy.json
+END
+followers.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/followers.json
+END
+show-dewitt.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/show-dewitt.json
+END
+friendship-destroy.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/friendship-destroy.json
+END
+update.json
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/update.json
+END
+direct_messages-new.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/direct_messages-new.json
+END
+show-89512102.json
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/show-89512102.json
+END
+user_timeline-kesuke.json
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/user_timeline-kesuke.json
+END
+friends.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/friends.json
+END
+friendship-create.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/friendship-create.json
+END
+featured.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/featured.json
+END
+direct_messages.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/direct_messages.json
+END
+replies.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/replies.json
+END
+user_timeline.json
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/user_timeline.json
+END
+public_timeline.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/public_timeline.json
+END
+friends_timeline-kesuke.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/friends_timeline-kesuke.json
+END
+direct_message-destroy.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/testdata/direct_message-destroy.json
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/pinax/!svn/ver/990/trunk/libs/external_libs/dateutil/dateutil
+END
+rrule.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/dateutil/dateutil/rrule.py
+END
+tzwin.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/dateutil/dateutil/tzwin.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/dateutil/dateutil/parser.py
+END
+tz.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/dateutil/dateutil/tz.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/dateutil/dateutil/__init__.py
+END
+easter.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/dateutil/dateutil/easter.py
+END
+relativedelta.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/dateutil/dateutil/relativedelta.py
+END

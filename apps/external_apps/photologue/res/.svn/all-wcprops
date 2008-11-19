@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/295/trunk/photologue/res
+END
+sample.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/295/trunk/photologue/res/sample.jpg
+END
+test_portrait.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/294/trunk/photologue/res/test_portrait.jpg
+END
+test_landscape.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/294/trunk/photologue/res/test_landscape.jpg
+END
+test_square.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/294/trunk/photologue/res/test_square.jpg
+END

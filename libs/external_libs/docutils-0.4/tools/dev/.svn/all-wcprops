@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/dev
+END
+create_unimap.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/dev/create_unimap.py
+END
+unicode2rstsubs.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/dev/unicode2rstsubs.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/dev/README.txt
+END
+profile_docutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/dev/profile_docutils.py
+END

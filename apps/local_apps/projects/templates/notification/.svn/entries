@@ -1,0 +1,58 @@
+9
+
+dir
+1208
+http://svn.pinaxproject.com/pinax/trunk/apps/local_apps/projects/templates/notification
+http://svn.pinaxproject.com/pinax
+
+
+
+2008-10-20T22:40:26.997651Z
+1134
+jtauber
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+45601e1e-1555-4799-bd40-45c8c71eef50
+
+projects_deleted
+dir
+
+projects_new_topic
+dir
+
+projects_task_change
+dir
+
+projects_task_assignment
+dir
+
+projects_added_as_member
+dir
+
+projects_new_task
+dir
+
+projects_topic_response
+dir
+
+projects_new_member
+dir
+
+projects_task_comment
+dir
+
+projects_task_status
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/readers/python
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/readers/python/__init__.py
+END
+pynodes.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/readers/python/pynodes.py
+END
+moduleparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/docutils/readers/python/moduleparser.py
+END

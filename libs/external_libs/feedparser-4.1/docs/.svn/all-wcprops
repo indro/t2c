@@ -1,0 +1,629 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs
+END
+reference-entry-enclosures.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-enclosures.html
+END
+http-redirect.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/http-redirect.html
+END
+date-parsing.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/date-parsing.html
+END
+annotated-atom03.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/annotated-atom03.html
+END
+namespace-handling.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/namespace-handling.html
+END
+reference-status.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-status.html
+END
+reference-feed-license.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-license.html
+END
+reference-feed-image.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-image.html
+END
+reference-entry-comments.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-comments.html
+END
+basic.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/basic.html
+END
+reference-feed-generator.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-generator.html
+END
+reference-bozo_exception.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-bozo_exception.html
+END
+reference-entry-publisher.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-publisher.html
+END
+uncommon-atom.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/uncommon-atom.html
+END
+annotated-examples.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/annotated-examples.html
+END
+reference-entry-source.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-source.html
+END
+reference-entry-created_parsed.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-created_parsed.html
+END
+common-atom-elements.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/common-atom-elements.html
+END
+uncommon-rss.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/uncommon-rss.html
+END
+reference-entry-content.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-content.html
+END
+basic-existence.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/basic-existence.html
+END
+reference-entry-publisher_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-publisher_detail.html
+END
+reference-namespaces.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-namespaces.html
+END
+reference-entry-title.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-title.html
+END
+reference-feed-publisher_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-publisher_detail.html
+END
+reference-modified.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-modified.html
+END
+reference-feed-links.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-links.html
+END
+reference-entry-author_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-author_detail.html
+END
+reference-entry-updated.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-updated.html
+END
+introduction.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/introduction.html
+END
+reference-version.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-version.html
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/license.html
+END
+annotated-rss20.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/annotated-rss20.html
+END
+reference-entry-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-summary.html
+END
+changes-40.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/changes-40.html
+END
+reference-entry-tags.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-tags.html
+END
+reference-feed-tags.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-tags.html
+END
+http-authentication.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/http-authentication.html
+END
+reference-entry-author.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-author.html
+END
+http-other.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/http-other.html
+END
+reference-entry-title_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-title_detail.html
+END
+reference-feed.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed.html
+END
+reference-feed-author.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-author.html
+END
+reference-feed-ttl.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-ttl.html
+END
+reference-feed-title_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-title_detail.html
+END
+atom-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/atom-detail.html
+END
+reference-feed-generator_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-generator_detail.html
+END
+advanced.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/advanced.html
+END
+reference-bozo.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-bozo.html
+END
+reference-feed-errorreportsto.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-errorreportsto.html
+END
+annotated-rss20-dc.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/annotated-rss20-dc.html
+END
+bozo.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/bozo.html
+END
+reference-entry-published.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-published.html
+END
+reference-entry-summary_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-summary_detail.html
+END
+reference-etag.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-etag.html
+END
+reference-entry-license.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-license.html
+END
+reference-feed-rights_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-rights_detail.html
+END
+http.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/http.html
+END
+reference-feed-language.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-language.html
+END
+reference-feed-icon.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-icon.html
+END
+reference-entry-id.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-id.html
+END
+reference-feed-info.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-info.html
+END
+reference-entry-contributors.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-contributors.html
+END
+reference-feed-id.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-id.html
+END
+changes-41.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/changes-41.html
+END
+reference-feed-contributors.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-contributors.html
+END
+reference-feed-publisher.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-publisher.html
+END
+http-etag.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/http-etag.html
+END
+reference-feed-rights.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-rights.html
+END
+reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference.html
+END
+version-detection.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/version-detection.html
+END
+common-rss-elements.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/common-rss-elements.html
+END
+reference-entry-published_parsed.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-published_parsed.html
+END
+reference-entry-links.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-links.html
+END
+annotated-atom10.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/annotated-atom10.html
+END
+html-sanitization.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/html-sanitization.html
+END
+reference-feed-title.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-title.html
+END
+reference-entry-updated_parsed.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-updated_parsed.html
+END
+character-encoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/character-encoding.html
+END
+reference-href.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-href.html
+END
+reference-feed-author_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-author_detail.html
+END
+reference-feed-updated_parsed.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-updated_parsed.html
+END
+reference-encoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-encoding.html
+END
+annotated-rss10.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/annotated-rss10.html
+END
+reference-feed-updated.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-updated.html
+END
+reference-feed-docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-docs.html
+END
+reference-entry-link.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-link.html
+END
+reference-feed-info-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-info-detail.html
+END
+reference-feed-subtitle.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-subtitle.html
+END
+reference-entry-expired_parsed.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-expired_parsed.html
+END
+reference-feed-link.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-link.html
+END
+reference-entry-expired.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-expired.html
+END
+reference-entry.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry.html
+END
+reference-feed-logo.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-logo.html
+END
+content-normalization.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/content-normalization.html
+END
+resolving-relative-links.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/resolving-relative-links.html
+END
+history.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/history.html
+END
+reference-feed-textinput.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-textinput.html
+END
+reference-entry-created.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-entry-created.html
+END
+reference-feed-cloud.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-cloud.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/index.html
+END
+reference-headers.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-headers.html
+END
+http-useragent.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/http-useragent.html
+END
+reference-feed-subtitle_detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/feedparser-4.1/docs/reference-feed-subtitle_detail.html
+END

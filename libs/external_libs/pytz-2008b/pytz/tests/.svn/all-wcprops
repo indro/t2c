@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/tests
+END
+test_tzinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/tests/test_tzinfo.py
+END
+test_docs.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/tests/test_docs.py
+END

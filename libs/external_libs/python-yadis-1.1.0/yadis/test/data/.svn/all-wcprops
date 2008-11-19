@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data
+END
+delegated-20060809-r1.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/delegated-20060809-r1.xrds
+END
+delegated-20060809-r2.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/delegated-20060809-r2.xrds
+END
+spoof1.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/spoof1.xrds
+END
+spoof2.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/spoof2.xrds
+END
+spoof3.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/spoof3.xrds
+END
+status222.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/status222.xrds
+END
+test1-xrd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/test1-xrd.xml
+END
+test1-discover.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/test1-discover.txt
+END
+ref.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/ref.xrds
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/README
+END
+prefixsometimes.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/prefixsometimes.xrds
+END
+sometimesprefix.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/sometimesprefix.xrds
+END
+delegated-20060809.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/delegated-20060809.xrds
+END
+no-xrd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/no-xrd.xml
+END
+example-xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/example-xrds.xml
+END
+test1-parsehtml.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/test1-parsehtml.txt
+END
+not-xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/not-xrds.xml
+END
+accept.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/yadis/test/data/accept.txt
+END

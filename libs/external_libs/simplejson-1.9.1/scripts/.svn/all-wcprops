@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/scripts
+END
+bench.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/scripts/bench.sh
+END
+make_docs.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/scripts/make_docs.py
+END
+prof.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/scripts/prof.py
+END

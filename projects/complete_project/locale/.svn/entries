@@ -1,0 +1,55 @@
+9
+
+dir
+1208
+http://svn.pinaxproject.com/pinax/trunk/projects/complete_project/locale
+http://svn.pinaxproject.com/pinax
+
+
+
+2008-11-13T04:01:45.151296Z
+1201
+brosner
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+45601e1e-1555-4799-bd40-45c8c71eef50
+
+ar
+dir
+
+en
+dir
+
+pt_BR
+dir
+
+es
+dir
+
+fr
+dir
+
+de
+dir
+
+sv
+dir
+
+he
+dir
+
+it
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/locations/templates/locations
+END
+friends_checkins.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/locations/templates/locations/friends_checkins.html
+END
+checkin.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/locations/templates/locations/checkin.html
+END
+nearby_checkins.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/locations/templates/locations/nearby_checkins.html
+END
+new.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/locations/templates/locations/new.html
+END
+your_locations.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/locations/templates/locations/your_locations.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/locations/templates/locations/base.html
+END

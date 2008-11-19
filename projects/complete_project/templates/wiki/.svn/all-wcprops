@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/1171/trunk/projects/complete_project/templates/wiki
+END
+article_content.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/wiki/article_content.html
+END
+searchbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/wiki/searchbox.html
+END
+changeset.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/wiki/changeset.html
+END
+history.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/1116/trunk/projects/complete_project/templates/wiki/history.html
+END
+edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/wiki/edit.html
+END
+article_teaser.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/1171/trunk/projects/complete_project/templates/wiki/article_teaser.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/1068/trunk/projects/complete_project/templates/wiki/index.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/wiki/base.html
+END
+view.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/wiki/view.html
+END

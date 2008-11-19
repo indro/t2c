@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/48/trunk/schedule
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/36/trunk/schedule/admin.py
+END
+occurrence.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/36/trunk/schedule/occurrence.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/47/trunk/schedule/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/trunk/schedule/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/48/trunk/schedule/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/46/trunk/schedule/models.py
+END
+periods.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/44/trunk/schedule/periods.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/47/trunk/schedule/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/24/trunk/schedule/forms.py
+END

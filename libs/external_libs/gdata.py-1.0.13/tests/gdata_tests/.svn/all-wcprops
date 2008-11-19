@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests
+END
+calendar_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/calendar_test.py
+END
+base_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/base_test.py
+END
+photos_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/photos_test.py
+END
+contacts_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/contacts_test.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/service_test.py
+END
+codesearch_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/codesearch_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/__init__.py
+END
+auth_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/auth_test.py
+END
+apps_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/apps_test.py
+END
+spreadsheet_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/spreadsheet_test.py
+END
+docs_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/tests/gdata_tests/docs_test.py
+END

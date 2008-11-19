@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/1078/trunk/projects/complete_project/templates/messages/notification/messages_reply_received
+END
+plain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pinax/!svn/ver/1078/trunk/projects/complete_project/templates/messages/notification/messages_reply_received/plain.txt
+END
+teaser.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pinax/!svn/ver/1078/trunk/projects/complete_project/templates/messages/notification/messages_reply_received/teaser.html
+END
+short.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pinax/!svn/ver/1078/trunk/projects/complete_project/templates/messages/notification/messages_reply_received/short.txt
+END

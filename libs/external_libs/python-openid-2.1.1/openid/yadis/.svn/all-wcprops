@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis
+END
+filters.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/filters.py
+END
+manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/manager.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/constants.py
+END
+xrires.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/xrires.py
+END
+discover.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/discover.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/__init__.py
+END
+accept.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/accept.py
+END
+parsehtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/parsehtml.py
+END
+xri.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/xri.py
+END
+services.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/services.py
+END
+etxrd.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/yadis/etxrd.py
+END

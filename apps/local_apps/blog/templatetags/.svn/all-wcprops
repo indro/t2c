@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/1024/trunk/apps/local_apps/blog/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/apps/local_apps/blog/templatetags/__init__.py
+END
+blog_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/apps/local_apps/blog/templatetags/blog_tags.py
+END
+blog.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/1007/trunk/apps/local_apps/blog/templatetags/blog.py
+END

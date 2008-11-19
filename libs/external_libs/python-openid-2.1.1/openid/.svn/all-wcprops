@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid
+END
+oidutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/oidutil.py
+END
+urinorm.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/urinorm.py
+END
+dh.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/dh.py
+END
+extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/extension.py
+END
+association.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/association.py
+END
+cryptutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/cryptutil.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/__init__.py
+END
+sreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/sreg.py
+END
+fetchers.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/fetchers.py
+END
+kvform.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/kvform.py
+END
+message.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/message.py
+END

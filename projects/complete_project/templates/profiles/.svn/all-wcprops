@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/1188/trunk/projects/complete_project/templates/profiles
+END
+profile_right_panel.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/1171/trunk/projects/complete_project/templates/profiles/profile_right_panel.html
+END
+profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/1188/trunk/projects/complete_project/templates/profiles/profile.html
+END
+profiles.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/1171/trunk/projects/complete_project/templates/profiles/profiles.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/profiles/base.html
+END

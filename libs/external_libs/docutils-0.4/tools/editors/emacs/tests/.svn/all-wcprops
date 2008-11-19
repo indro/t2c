@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/editors/emacs/tests
+END
+tests-basic.el
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/editors/emacs/tests/tests-basic.el
+END
+tests-runner.el
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/editors/emacs/tests/tests-runner.el
+END
+tests-adjust-section.el
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/editors/emacs/tests/tests-adjust-section.el
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/editors/emacs/tests/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/tools/editors/emacs/tests/README
+END

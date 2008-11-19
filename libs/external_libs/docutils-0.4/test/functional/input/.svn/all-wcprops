@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input
+END
+standalone_rst_html4css1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/standalone_rst_html4css1.txt
+END
+compact_lists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/compact_lists.txt
+END
+dangerous.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/dangerous.txt
+END
+standalone_rst_newlatex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/standalone_rst_newlatex.txt
+END
+pep_html.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/pep_html.txt
+END
+simple.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/simple.txt
+END
+standalone_rst_s5_html.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/standalone_rst_s5_html.txt
+END
+standalone_rst_latex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/standalone_rst_latex.txt
+END
+field_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/field_list.txt
+END
+latex_docinfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/latex_docinfo.txt
+END
+standalone_rst_pseudoxml.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/input/standalone_rst_pseudoxml.txt
+END

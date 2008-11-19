@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/1116/trunk/projects/basic_project/templates/notification
+END
+notices.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/1116/trunk/projects/basic_project/templates/notification/notices.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/1063/trunk/projects/basic_project/templates/notification/base.html
+END

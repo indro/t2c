@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/81/trunk/messages
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/51/trunk/messages/admin.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/68/trunk/messages/management.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/75/trunk/messages/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/messages/__init__.py
+END
+signals.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/messages/signals.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/76/trunk/messages/utils.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/messages/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/79/trunk/messages/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/64/trunk/messages/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/68/trunk/messages/forms.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/51/trunk/messages/context_processors.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/75/trunk/messages/fields.py
+END

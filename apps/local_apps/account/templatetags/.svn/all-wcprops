@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pinax/!svn/ver/1204/trunk/apps/local_apps/account/templatetags
+END
+openid_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/1204/trunk/apps/local_apps/account/templatetags/openid_tags.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/apps/local_apps/account/templatetags/__init__.py
+END
+other_service_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/apps/local_apps/account/templatetags/other_service_tags.py
+END

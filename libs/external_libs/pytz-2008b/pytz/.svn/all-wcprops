@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz
+END
+tzinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/tzinfo.py
+END
+tzfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/tzfile.py
+END
+reference.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/reference.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/__init__.py
+END

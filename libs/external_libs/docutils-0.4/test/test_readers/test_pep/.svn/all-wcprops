@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_pep
+END
+test_inline_markup.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_pep/test_inline_markup.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_pep/__init__.py
+END
+test_rfc2822.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_readers/test_pep/test_rfc2822.py
+END

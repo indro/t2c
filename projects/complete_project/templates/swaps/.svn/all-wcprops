@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/swaps
+END
+dead.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/1098/trunk/projects/complete_project/templates/swaps/dead.html
+END
+offer.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/swaps/offer.html
+END
+propose_swap.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/1098/trunk/projects/complete_project/templates/swaps/propose_swap.html
+END
+proposed_by_you.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/1098/trunk/projects/complete_project/templates/swaps/proposed_by_you.html
+END
+your_offers.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/1098/trunk/projects/complete_project/templates/swaps/your_offers.html
+END
+offers.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/swaps/offers.html
+END
+edit_offer.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/1044/trunk/projects/complete_project/templates/swaps/edit_offer.html
+END
+accepted.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/1098/trunk/projects/complete_project/templates/swaps/accepted.html
+END
+proposed_to_you.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/1098/trunk/projects/complete_project/templates/swaps/proposed_to_you.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/1098/trunk/projects/complete_project/templates/swaps/base.html
+END
+new_offer.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/1044/trunk/projects/complete_project/templates/swaps/new_offer.html
+END
+swap.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/1098/trunk/projects/complete_project/templates/swaps/swap.html
+END

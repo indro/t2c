@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/pinax/!svn/ver/1207/trunk/apps/local_apps/account
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/990/trunk/apps/local_apps/account/admin.py
+END
+openid_consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/1207/trunk/apps/local_apps/account/openid_consumer.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pinax/!svn/ver/1120/trunk/apps/local_apps/account/middleware.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1204/trunk/apps/local_apps/account/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/990/trunk/apps/local_apps/account/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/1123/trunk/apps/local_apps/account/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/1204/trunk/apps/local_apps/account/urls.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/1121/trunk/apps/local_apps/account/context_processors.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1207/trunk/apps/local_apps/account/forms.py
+END

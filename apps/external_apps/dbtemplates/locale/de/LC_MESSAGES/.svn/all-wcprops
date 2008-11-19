@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/75/trunk/dbtemplates/locale/de/LC_MESSAGES
+END
+django.po
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/75/trunk/dbtemplates/locale/de/LC_MESSAGES/django.po
+END
+django.mo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/75/trunk/dbtemplates/locale/de/LC_MESSAGES/django.mo
+END

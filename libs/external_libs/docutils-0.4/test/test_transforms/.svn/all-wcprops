@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms
+END
+test_writer_aux.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_writer_aux.py
+END
+test_contents.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_contents.py
+END
+test_target_notes.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_target_notes.py
+END
+test___init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test___init__.py
+END
+test_substitutions.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_substitutions.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/__init__.py
+END
+test_class.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_class.py
+END
+test_strip_comments.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_strip_comments.py
+END
+test_doctitle.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_doctitle.py
+END
+test_messages.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_messages.py
+END
+test_peps.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_peps.py
+END
+test_transitions.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_transitions.py
+END
+test_sectnum.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_sectnum.py
+END
+test_footnotes.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_footnotes.py
+END
+test_docinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_docinfo.py
+END
+test_expose_internals.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_expose_internals.py
+END
+test_filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_filter.py
+END
+test_hyperlinks.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_transforms/test_hyperlinks.py
+END

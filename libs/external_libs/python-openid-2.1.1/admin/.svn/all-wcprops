@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin
+END
+setversion
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin/setversion
+END
+pythonsource
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin/pythonsource
+END
+makedoc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin/makedoc
+END
+builddiscover.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin/builddiscover.py
+END
+makechangelog
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin/makechangelog
+END
+runtests
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin/runtests
+END
+tagrelease
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin/tagrelease
+END
+fixperms
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/admin/fixperms
+END

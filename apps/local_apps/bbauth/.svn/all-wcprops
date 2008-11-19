@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/pinax/!svn/ver/990/trunk/apps/local_apps/bbauth
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pinax/!svn/ver/990/trunk/apps/local_apps/bbauth/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/990/trunk/apps/local_apps/bbauth/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/990/trunk/apps/local_apps/bbauth/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/990/trunk/apps/local_apps/bbauth/urls.py
+END

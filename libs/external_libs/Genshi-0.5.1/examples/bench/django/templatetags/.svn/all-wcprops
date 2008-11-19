@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/django/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/django/templatetags/__init__.py
+END
+bench.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/django/templatetags/bench.py
+END

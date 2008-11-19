@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/LICENSE.txt
+END
+test_vobject.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/test_vobject.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/setup.py
+END
+ACKNOWLEDGEMENTS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/ACKNOWLEDGEMENTS.txt
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/PKG-INFO
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/README.txt
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/setup.cfg
+END

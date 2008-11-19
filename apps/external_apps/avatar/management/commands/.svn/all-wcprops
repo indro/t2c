@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/33/trunk/avatar/management/commands
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/avatar/management/commands/__init__.py
+END
+rebuild_avatars.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/avatar/management/commands/rebuild_avatars.py
+END

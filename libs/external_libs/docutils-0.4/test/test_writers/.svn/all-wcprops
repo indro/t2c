@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_writers
+END
+test_null.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_writers/test_null.py
+END
+test_html4css1_misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_writers/test_html4css1_misc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_writers/__init__.py
+END
+test_pseudoxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_writers/test_pseudoxml.py
+END
+test_html4css1.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_writers/test_html4css1.py
+END
+test_latex2e.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_writers/test_latex2e.py
+END
+test_docutils_xml.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_writers/test_docutils_xml.py
+END

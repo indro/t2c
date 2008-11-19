@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/1050/trunk/apps/local_apps/basic_profiles/management/commands
+END
+create_profiles_for_users.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/1050/trunk/apps/local_apps/basic_profiles/management/commands/create_profiles_for_users.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/1050/trunk/apps/local_apps/basic_profiles/management/commands/__init__.py
+END

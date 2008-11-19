@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest
+END
+json.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/json.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/__init__.py
+END
+model.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/model.py
+END
+release.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/release.py
+END
+controllers.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/controllers.py
+END

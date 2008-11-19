@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/174/trunk/wiki/templatetags
+END
+creole.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/151/trunk/wiki/templatetags/creole.py
+END
+switchcase.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13/trunk/wiki/templatetags/switchcase.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/wiki/templatetags/__init__.py
+END
+restructuredtext.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/82/trunk/wiki/templatetags/restructuredtext.py
+END
+wiki.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/146/trunk/wiki/templatetags/wiki.py
+END
+wikiurl.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/174/trunk/wiki/templatetags/wikiurl.py
+END

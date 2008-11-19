@@ -1,0 +1,31 @@
+9
+
+dir
+81
+http://django-messages.googlecode.com/svn/trunk/messages/locale/fr
+http://django-messages.googlecode.com/svn
+
+
+
+2008-08-14T17:00:19.448422Z
+63
+arne@rcs4u.de
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b6a2a13a-764b-0410-8c04-89e9a283537e
+
+LC_MESSAGES
+dir
+

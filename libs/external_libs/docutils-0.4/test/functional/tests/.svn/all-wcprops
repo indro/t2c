@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests
+END
+pep_html.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/pep_html.py
+END
+standalone_rst_s5_html_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/standalone_rst_s5_html_1.py
+END
+standalone_rst_s5_html_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/standalone_rst_s5_html_2.py
+END
+standalone_rst_latex.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/standalone_rst_latex.py
+END
+latex_docinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/latex_docinfo.py
+END
+standalone_rst_pseudoxml.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/standalone_rst_pseudoxml.py
+END
+field_name_limit.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/field_name_limit.py
+END
+standalone_rst_html4css1.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/standalone_rst_html4css1.py
+END
+_default.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/_default.py
+END
+compact_lists.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/compact_lists.py
+END
+misc_rst_html4css1.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/misc_rst_html4css1.py
+END
+_standalone_rst_defaults.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/_standalone_rst_defaults.py
+END
+dangerous.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/functional/tests/dangerous.py
+END

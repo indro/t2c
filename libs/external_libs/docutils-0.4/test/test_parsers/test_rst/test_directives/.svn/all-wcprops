@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives
+END
+test_raw.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_raw.py
+END
+test_sidebars.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_sidebars.py
+END
+test_unknown.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_unknown.py
+END
+test_test_directives.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_test_directives.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/__init__.py
+END
+test_figures.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_figures.py
+END
+test_images.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_images.py
+END
+test_default_role.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_default_role.py
+END
+test_rubrics.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_rubrics.py
+END
+test_decorations.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_decorations.py
+END
+include 11.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/include%2011.txt
+END
+test_date.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_date.py
+END
+test_container.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_container.py
+END
+test_compound.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_compound.py
+END
+test_meta.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_meta.py
+END
+empty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/empty.txt
+END
+include1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/include1.txt
+END
+test_contents.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_contents.py
+END
+include2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/include2.txt
+END
+include3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/include3.txt
+END
+test_target_notes.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_target_notes.py
+END
+test_role.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_role.py
+END
+test_topics.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_topics.py
+END
+raw1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/raw1.txt
+END
+include8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/include8.txt
+END
+test_tables.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_tables.py
+END
+test_replace.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_replace.py
+END
+include10.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/include10.txt
+END
+test_include.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_include.py
+END
+test_admonitions.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_admonitions.py
+END
+test_line_blocks.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_line_blocks.py
+END
+test_unicode.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/test_unicode.py
+END
+utf-16.csv
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pinax/!svn/ver/990/trunk/libs/external_libs/docutils-0.4/test/test_parsers/test_rst/test_directives/utf-16.csv
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Mexico
+END
+BajaNorte
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Mexico/BajaNorte
+END
+BajaSur
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Mexico/BajaSur
+END
+General
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/pytz-2008b/pytz/zoneinfo/Mexico/General
+END

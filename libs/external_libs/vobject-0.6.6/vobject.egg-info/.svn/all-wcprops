@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/vobject.egg-info
+END
+SOURCES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/vobject.egg-info/SOURCES.txt
+END
+top_level.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/vobject.egg-info/top_level.txt
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/vobject.egg-info/PKG-INFO
+END
+entry_points.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/vobject.egg-info/entry_points.txt
+END
+dependency_links.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/vobject.egg-info/dependency_links.txt
+END
+requires.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/vobject.egg-info/requires.txt
+END
+zip-safe
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/vobject.egg-info/zip-safe
+END

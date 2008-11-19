@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pinax/!svn/ver/1189/trunk/apps/local_apps/analytics
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/990/trunk/apps/local_apps/analytics/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pinax/!svn/ver/990/trunk/apps/local_apps/analytics/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/990/trunk/apps/local_apps/analytics/models.py
+END

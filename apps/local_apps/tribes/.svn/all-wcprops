@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pinax/!svn/ver/1201/trunk/apps/local_apps/tribes
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/1028/trunk/apps/local_apps/tribes/admin.py
+END
+thing.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/1028/trunk/apps/local_apps/tribes/thing.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/pinax/!svn/ver/990/trunk/apps/local_apps/tribes/management.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/1201/trunk/apps/local_apps/tribes/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pinax/!svn/ver/990/trunk/apps/local_apps/tribes/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1028/trunk/apps/local_apps/tribes/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pinax/!svn/ver/1034/trunk/apps/local_apps/tribes/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/1084/trunk/apps/local_apps/tribes/forms.py
+END

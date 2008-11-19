@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1184/trunk/projects/complete_project/deploy
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/1130/trunk/projects/complete_project/deploy/__init__.py
+END
+complete_project.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/1184/trunk/projects/complete_project/deploy/complete_project.wsgi
+END
+modpython.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/1184/trunk/projects/complete_project/deploy/modpython.py
+END

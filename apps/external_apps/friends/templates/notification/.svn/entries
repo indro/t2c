@@ -1,0 +1,46 @@
+9
+
+dir
+56
+http://django-friends.googlecode.com/svn/trunk/friendsdev/friends/templates/notification
+http://django-friends.googlecode.com/svn
+
+
+
+2008-10-23T19:50:58.194409Z
+56
+jtauber
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9456ae0-1038-0410-abc2-2f1ed958ef3d
+
+friends_invite_sent
+dir
+
+friends_accept_sent
+dir
+
+friends_otherconnect
+dir
+
+friends_invite
+dir
+
+friends_accept
+dir
+
+join_accept
+dir
+

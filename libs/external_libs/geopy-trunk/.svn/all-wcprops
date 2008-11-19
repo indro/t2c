@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/LICENSE
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/setup.py
+END

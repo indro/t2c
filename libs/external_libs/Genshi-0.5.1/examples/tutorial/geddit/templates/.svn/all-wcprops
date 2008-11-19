@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/layout.html
+END
+_comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/_comment.html
+END
+_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/_form.html
+END
+comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/comment.html
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/index.xml
+END
+submit.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/submit.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/index.html
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/info.xml
+END
+info.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/templates/info.html
+END

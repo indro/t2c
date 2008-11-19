@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/consumer
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/consumer/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/consumer/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/consumer/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/examples/djopenid/consumer/urls.py
+END

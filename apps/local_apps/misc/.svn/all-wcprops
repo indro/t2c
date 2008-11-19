@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/pinax/!svn/ver/1201/trunk/apps/local_apps/misc
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/1076/trunk/apps/local_apps/misc/middleware.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/1076/trunk/apps/local_apps/misc/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/pinax/!svn/ver/1076/trunk/apps/local_apps/misc/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/pinax/!svn/ver/1076/trunk/apps/local_apps/misc/utils.py
+END
+footer_context_processor.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/1201/trunk/apps/local_apps/misc/footer_context_processor.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/pinax/!svn/ver/1076/trunk/apps/local_apps/misc/models.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/1076/trunk/apps/local_apps/misc/context_processors.py
+END

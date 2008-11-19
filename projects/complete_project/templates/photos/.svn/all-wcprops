@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/photos
+END
+latest.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/photos/latest.html
+END
+memberphotos.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/photos/memberphotos.html
+END
+upload.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/1068/trunk/projects/complete_project/templates/photos/upload.html
+END
+details.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/1188/trunk/projects/complete_project/templates/photos/details.html
+END
+edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/1068/trunk/projects/complete_project/templates/photos/edit.html
+END
+photo_right_panel.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/photos/photo_right_panel.html
+END
+friends_photos.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/photos/friends_photos.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/999/trunk/projects/complete_project/templates/photos/base.html
+END
+yourphotos.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/1190/trunk/projects/complete_project/templates/photos/yourphotos.html
+END

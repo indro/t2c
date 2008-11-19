@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/80/trunk/messages/templates/notification/messages_reply_received
+END
+full.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/messages/templates/notification/messages_reply_received/full.txt
+END
+notice.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/80/trunk/messages/templates/notification/messages_reply_received/notice.html
+END
+short.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/77/trunk/messages/templates/notification/messages_reply_received/short.txt
+END

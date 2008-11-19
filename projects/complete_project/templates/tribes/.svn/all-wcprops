@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/tribes
+END
+topic_item.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/pinax/!svn/ver/1171/trunk/projects/complete_project/templates/tribes/topic_item.html
+END
+topic.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/1171/trunk/projects/complete_project/templates/tribes/topic.html
+END
+topics.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/tribes/topics.html
+END
+create.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/tribes/create.html
+END
+tribe.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/tribes/tribe.html
+END
+your_tribes.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/1068/trunk/projects/complete_project/templates/tribes/your_tribes.html
+END
+tribes.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/1183/trunk/projects/complete_project/templates/tribes/tribes.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/990/trunk/projects/complete_project/templates/tribes/base.html
+END

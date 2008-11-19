@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/75/trunk/django-social-economics/swaps/templates/swaps
+END
+dead.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/74/trunk/django-social-economics/swaps/templates/swaps/dead.html
+END
+offer.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/74/trunk/django-social-economics/swaps/templates/swaps/offer.html
+END
+propose_swap.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/django-social-economics/swaps/templates/swaps/propose_swap.html
+END
+proposed_by_you.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/74/trunk/django-social-economics/swaps/templates/swaps/proposed_by_you.html
+END
+your_offers.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/75/trunk/django-social-economics/swaps/templates/swaps/your_offers.html
+END
+offers.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/75/trunk/django-social-economics/swaps/templates/swaps/offers.html
+END
+edit_offer.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/74/trunk/django-social-economics/swaps/templates/swaps/edit_offer.html
+END
+accepted.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/74/trunk/django-social-economics/swaps/templates/swaps/accepted.html
+END
+proposed_to_you.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/74/trunk/django-social-economics/swaps/templates/swaps/proposed_to_you.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/66/trunk/django-social-economics/swaps/templates/swaps/base.html
+END
+new_offer.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/django-social-economics/swaps/templates/swaps/new_offer.html
+END
+swap.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/74/trunk/django-social-economics/swaps/templates/swaps/swap.html
+END

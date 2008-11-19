@@ -1,0 +1,46 @@
+9
+
+dir
+1208
+http://svn.pinaxproject.com/pinax/trunk/projects/complete_project/templates/messages/notification
+http://svn.pinaxproject.com/pinax
+
+
+
+2008-10-18T00:54:22.287228Z
+1078
+jezdez
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+45601e1e-1555-4799-bd40-45c8c71eef50
+
+messages_sent
+dir
+
+messages_recovered
+dir
+
+messages_reply_received
+dir
+
+messages_replied
+dir
+
+messages_deleted
+dir
+
+messages_received
+dir
+

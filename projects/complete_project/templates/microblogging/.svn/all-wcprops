@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/microblogging
+END
+followers.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/microblogging/followers.html
+END
+public.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/microblogging/public.html
+END
+following.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/microblogging/following.html
+END
+single.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/microblogging/single.html
+END
+personal.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/microblogging/personal.html
+END
+friends_tweets.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/1201/trunk/projects/complete_project/templates/microblogging/friends_tweets.html
+END
+listing.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/1200/trunk/projects/complete_project/templates/microblogging/listing.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/pinax/!svn/ver/1200/trunk/projects/complete_project/templates/microblogging/base.html
+END

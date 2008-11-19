@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/LICENSE
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/setup.py
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/COPYING
+END
+twitter_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/twitter_test.py
+END
+twitter.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/twitter.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/PKG-INFO
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/README
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-twitter-0.5/setup.cfg
+END

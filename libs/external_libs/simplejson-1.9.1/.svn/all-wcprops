@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/LICENSE.txt
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/ez_setup.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/PKG-INFO
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/setup.cfg
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/1167/trunk/projects/complete_project/tests
+END
+model_coverage.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/1167/trunk/projects/complete_project/tests/model_coverage.py
+END
+smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/1165/trunk/projects/complete_project/tests/smoke_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/projects/complete_project/tests/__init__.py
+END
+test_notification_templates.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/1166/trunk/projects/complete_project/tests/test_notification_templates.py
+END

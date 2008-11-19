@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/56/trunk/django_openid/tests
+END
+openid_mocks.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/django_openid/tests/openid_mocks.py
+END
+consumer_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/49/trunk/django_openid/tests/consumer_tests.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/django_openid/tests/__init__.py
+END
+request_factory.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/django_openid/tests/request_factory.py
+END
+signing_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/44/trunk/django_openid/tests/signing_tests.py
+END
+auth_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/56/trunk/django_openid/tests/auth_tests.py
+END

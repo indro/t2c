@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/test_files
+END
+more_tests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/test_files/more_tests.txt
+END
+utf8_test.ics
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/test_files/utf8_test.ics
+END
+recurrence.ics
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/test_files/recurrence.ics
+END
+tzid_8bit.ics
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/pinax/!svn/ver/990/trunk/libs/external_libs/vobject-0.6.6/test_files/tzid_8bit.ics
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/33/trunk/avatar
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/29/trunk/avatar/admin.py
+END
+default.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/avatar/default.jpg
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/31/trunk/avatar/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/31/trunk/avatar/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/32/trunk/avatar/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/30/trunk/avatar/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/30/trunk/avatar/forms.py
+END

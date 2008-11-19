@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/67/trunk/messages/templates/messages
+END
+new_message.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/67/trunk/messages/templates/messages/new_message.html
+END
+inbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/51/trunk/messages/templates/messages/inbox.html
+END
+outbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/51/trunk/messages/templates/messages/outbox.html
+END
+trash.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/51/trunk/messages/templates/messages/trash.html
+END
+compose.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/messages/templates/messages/compose.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/51/trunk/messages/templates/messages/base.html
+END
+view.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/51/trunk/messages/templates/messages/view.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/templates
+END
+plain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/templates/plain.txt
+END
+sitetemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/templates/sitetemplate.html
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/templates/__init__.py
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/templates/login.html
+END
+master.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/templates/master.html
+END
+welcome.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/turbogears/genshitest/templates/welcome.html
+END

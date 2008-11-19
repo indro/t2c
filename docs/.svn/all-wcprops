@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/pinax/!svn/ver/1205/trunk/docs
+END
+external_apps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pinax/!svn/ver/1196/trunk/docs/external_apps.txt
+END
+dependencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/pinax/!svn/ver/1205/trunk/docs/dependencies.txt
+END
+install.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/pinax/!svn/ver/1158/trunk/docs/install.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/pinax/!svn/ver/902/trunk/docs/index.txt
+END
+customization.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/pinax/!svn/ver/1184/trunk/docs/customization.txt
+END
+tabs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/pinax/!svn/ver/1100/trunk/docs/tabs.txt
+END
+intro.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/pinax/!svn/ver/931/trunk/docs/intro.txt
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/pinax/!svn/ver/1177/trunk/docs/conf.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/pinax/!svn/ver/782/trunk/docs/Makefile
+END
+deployment.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/pinax/!svn/ver/1184/trunk/docs/deployment.txt
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/pinax/!svn/ver/1187/trunk/projects/complete_project/apps/photos
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/photos/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/1187/trunk/projects/complete_project/apps/photos/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/photos/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/photos/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/photos/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/photos/forms.py
+END

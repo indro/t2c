@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/doc/common
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/doc/common/COPYING
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/doc/common/README.txt
+END
+doctools.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/doc/common/doctools.py
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/doc/common/template.html
+END

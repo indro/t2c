@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/57/trunk/django_openid
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/39/trunk/django_openid/admin.py
+END
+signed.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/django_openid/signed.py
+END
+provider.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/django_openid/provider.py
+END
+registration.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/57/trunk/django_openid/registration.py
+END
+consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/57/trunk/django_openid/consumer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26/trunk/django_openid/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/38/trunk/django_openid/utils.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/57/trunk/django_openid/auth.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/48/trunk/django_openid/models.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26/trunk/django_openid/README.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/mako
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/mako/footer.html
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/mako/header.html
+END
+template.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/bench/mako/template.html
+END

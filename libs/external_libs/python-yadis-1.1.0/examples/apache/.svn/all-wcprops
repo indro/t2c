@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/examples/apache
+END
+identity.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/examples/apache/identity.txt
+END
+yadis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/examples/apache/yadis.xml
+END
+identity
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/examples/apache/identity
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/examples/apache/.htaccess
+END
+home.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/examples/apache/home.html
+END
+htaccess.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-yadis-1.1.0/examples/apache/htaccess.txt
+END

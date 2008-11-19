@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/1204/trunk/projects/basic_project/templates/django_openid
+END
+associations.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/1204/trunk/projects/basic_project/templates/django_openid/associations.html
+END
+register.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pinax/!svn/ver/1204/trunk/projects/basic_project/templates/django_openid/register.html
+END

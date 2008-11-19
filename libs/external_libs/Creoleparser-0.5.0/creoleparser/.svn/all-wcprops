@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/creoleparser
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/creoleparser/core.py
+END
+dialects.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/creoleparser/dialects.py
+END
+elements.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/creoleparser/elements.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/creoleparser/__init__.py
+END

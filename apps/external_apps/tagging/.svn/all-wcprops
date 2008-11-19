@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/148/branches/newforms-admin/tagging
+END
+validators.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/148/branches/newforms-admin/tagging/validators.py
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/140/branches/newforms-admin/tagging/admin.py
+END
+generic.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/139/branches/newforms-admin/tagging/generic.py
+END
+managers.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/144/branches/newforms-admin/tagging/managers.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/139/branches/newforms-admin/tagging/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/145/branches/newforms-admin/tagging/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/146/branches/newforms-admin/tagging/utils.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/139/branches/newforms-admin/tagging/settings.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/148/branches/newforms-admin/tagging/models.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/148/branches/newforms-admin/tagging/fields.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/148/branches/newforms-admin/tagging/forms.py
+END

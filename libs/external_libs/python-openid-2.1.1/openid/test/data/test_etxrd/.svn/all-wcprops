@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd
+END
+prefixsometimes.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/prefixsometimes.xrds
+END
+sometimesprefix.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/sometimesprefix.xrds
+END
+delegated-20060809-r1.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/delegated-20060809-r1.xrds
+END
+delegated-20060809.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/delegated-20060809.xrds
+END
+delegated-20060809-r2.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/delegated-20060809-r2.xrds
+END
+no-xrd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/no-xrd.xml
+END
+spoof1.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/spoof1.xrds
+END
+spoof2.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/spoof2.xrds
+END
+valid-populated-xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/valid-populated-xrds.xml
+END
+spoof3.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/spoof3.xrds
+END
+status222.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/status222.xrds
+END
+ref.xrds
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/ref.xrds
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/README
+END
+not-xrds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pinax/!svn/ver/990/trunk/libs/external_libs/python-openid-2.1.1/openid/test/data/test_etxrd/not-xrds.xml
+END

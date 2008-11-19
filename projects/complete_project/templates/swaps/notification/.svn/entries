@@ -1,0 +1,52 @@
+9
+
+dir
+1208
+http://svn.pinaxproject.com/pinax/trunk/projects/complete_project/templates/swaps/notification
+http://svn.pinaxproject.com/pinax
+
+
+
+2008-10-18T01:13:37.992528Z
+1080
+jezdez
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+45601e1e-1555-4799-bd40-45c8c71eef50
+
+swaps_comment
+dir
+
+swaps_rejection
+dir
+
+swaps_responding_offer_changed
+dir
+
+swaps_acceptance
+dir
+
+swaps_proposing_offer_changed
+dir
+
+swaps_cancellation
+dir
+
+swaps_proposal
+dir
+
+swaps_conflict
+dir
+

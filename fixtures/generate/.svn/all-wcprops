@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/pinax/!svn/ver/1201/trunk/fixtures/generate
+END
+friends.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pinax/!svn/ver/991/trunk/fixtures/generate/friends.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pinax/!svn/ver/991/trunk/fixtures/generate/__init__.py
+END
+zwitschern.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/pinax/!svn/ver/1201/trunk/fixtures/generate/zwitschern.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pinax/!svn/ver/991/trunk/fixtures/generate/auth.py
+END
+profiles.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/pinax/!svn/ver/991/trunk/fixtures/generate/profiles.py
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pinax/!svn/ver/1201/trunk/fixtures/generate/run.py
+END

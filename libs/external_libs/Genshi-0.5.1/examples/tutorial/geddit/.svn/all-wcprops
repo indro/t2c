@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/__init__.py
+END
+model.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/model.py
+END
+controller.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/controller.py
+END
+form.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/Genshi-0.5.1/examples/tutorial/geddit/form.py
+END

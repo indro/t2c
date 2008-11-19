@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/LICENSE.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/INSTALL.txt
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/CHANGES.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/MANIFEST.in
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/README.txt
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pinax/!svn/ver/990/trunk/libs/external_libs/Creoleparser-0.5.0/setup.cfg
+END

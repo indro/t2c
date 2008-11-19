@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/codesearch
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/codesearch/__init__.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/codesearch/service.py
+END

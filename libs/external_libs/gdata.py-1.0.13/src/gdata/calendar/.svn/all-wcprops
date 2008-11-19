@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/calendar
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/calendar/__init__.py
+END
+service.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pinax/!svn/ver/990/trunk/libs/external_libs/gdata.py-1.0.13/src/gdata/calendar/service.py
+END

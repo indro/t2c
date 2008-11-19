@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/geopy
+END
+distance.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/geopy/distance.py
+END
+geocoders.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/geopy/geocoders.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/geopy/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pinax/!svn/ver/990/trunk/libs/external_libs/geopy-trunk/geopy/__init__.py
+END

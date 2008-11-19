@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/friends_app
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/friends_app/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/friends_app/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/friends_app/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/friends_app/urls.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/friends_app/context_processors.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/pinax/!svn/ver/1108/trunk/projects/complete_project/apps/friends_app/forms.py
+END

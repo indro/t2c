@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/docs/simplejson
+END
+decoder.py.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/docs/simplejson/decoder.py.html
+END
+scanner.py.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/docs/simplejson/scanner.py.html
+END
+__init__.py.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/docs/simplejson/__init__.py.html
+END
+encoder.py.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/docs/simplejson/encoder.py.html
+END
+jsonfilter.py.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/pinax/!svn/ver/990/trunk/libs/external_libs/simplejson-1.9.1/docs/simplejson/jsonfilter.py.html
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/42/trunk/things/templates/things
+END
+groups.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/42/trunk/things/templates/things/groups.html
+END
+detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/things/templates/things/detail.html
+END
+search.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/41/trunk/things/templates/things/search.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/things/templates/things/index.html
+END
+ordering.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/41/trunk/things/templates/things/ordering.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/things/templates/things/base.html
+END
+list.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/42/trunk/things/templates/things/list.html
+END

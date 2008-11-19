@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/microblogging/templates/notification/tweet_reply_received
+END
+full.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/microblogging/templates/notification/tweet_reply_received/full.txt
+END
+notice.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/microblogging/templates/notification/tweet_reply_received/notice.html
+END

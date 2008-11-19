@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/354/trunk/photologue
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/342/trunk/photologue/admin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/345/trunk/photologue/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/296/trunk/photologue/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/354/trunk/photologue/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/266/trunk/photologue/urls.py
+END

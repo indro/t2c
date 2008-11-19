@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/42/trunk/schedule/management/commands
+END
+load_sample_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42/trunk/schedule/management/commands/load_sample_data.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/schedule/management/commands/__init__.py
+END

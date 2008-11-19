@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/threadedcomments
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/116/trunk/threadedcomments/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/126/trunk/threadedcomments/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/117/trunk/threadedcomments/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/125/trunk/threadedcomments/utils.py
+END
+moderation.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/125/trunk/threadedcomments/moderation.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/125/trunk/threadedcomments/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/123/trunk/threadedcomments/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/126/trunk/threadedcomments/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/125/trunk/threadedcomments/forms.py
+END
