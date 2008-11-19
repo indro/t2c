@@ -4,65 +4,119 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <title>{% if site_name %}{{ site_name }} : {% endif %}{% block head_title %}{% endblock %}</title>
-        <!--[if IE]><style>
-            div {
-                zoom: 1; /* trigger hasLayout */
-            }
-        </style><![endif]-->
-        <link rel="stylesheet" href="{{ MEDIA_URL }}base.css?743" />        {% if LANGUAGE_BIDI %}
-        <style type="text/css" media="screen">
-            div.right_panel {
-                float: left; /* hotfix for sidebar */
-            }
-        </style>
-        {% endif %}
+        <link rel="stylesheet" href="/site_media/base.css" />
+        <link rel="stylesheet" href="/site_media/tabs.css" />
+        <link rel="stylesheet" href="/site_media/t2c/t2c.css" />
+        <script src="/site_media/jquery.js" type="text/javascript"></script>
         {% block extra_head %}
         {% endblock %}
     </head>
+    
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
-    <body>
-        {% if site_wide_announcements %}
-            <div id="site_wide_announcements">
-                <ul>
-                    {% for announcement in site_wide_announcements %}
-                    <li>
-                        <a href="{{ announcement.get_absolute_url }}">{{ announcement }}</a> -
-                        <a href="{% url announcement_hide announcement.pk %}?next={{ request.path }}">{% trans "Hide announcement" %}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-        {% endif %}
-        
-        <div id="tabhead">
-            <div class="logo" dir="ltr">{% block logo_link_image %}{% endblock %}</div>
-            <div class="login">{% block login %}{% endblock %}{% block locale_switcher %}{% endblock %}<div style="text-align: right;"></div></div>
-            <div class="tabs" {% block tab_id %}{% endblock %}>{% block tabs %}{% endblock %}</div>
-            <div class="right_tab" {% block rtab_id %}{% endblock %}>{% block right_tab %}{% endblock %}</div>
-        </div>
-        <div id="subnav" class="clearfix">{% block subnav %}&nbsp;{% endblock %}</div>
-        
-        <div id="body">
-            {% if messages %}
-                <ul id="messages">
-                    {% for message in messages %}
-                    <li id="message_{{ forloop.counter }}"><a href="#" onclick="$('#message_{{ forloop.counter }}').fadeOut(); return false;"><small>{% trans "clear" %}</small></a> {{ message }}</li>
-                    {% endfor %}
-                </ul>
-            {% endif %}
-            
-            {% block body %}
-            {% endblock %}
-            
-        </div>
-        
-        <div id="footer">{% block footer %}{% endblock %}</div>
-        
-        <script src="{{ MEDIA_URL }}jquery.js" type="text/javascript"></script>
-        <script src="{{ MEDIA_URL }}base.js" type="text/javascript"></script>
-        {% load analytics %}
-        {% urchin %}
-        {% block extra_body %}
-        {% endblock %}
-    </body>
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5971774-1");
+	pageTracker._trackPageview();
+	</script>
+
+<center>
+  <table id="table1" cellpadding="0" cellspacing="0">
+	<tr>
+		<td id="links" rowspan="6" />
+
+		<td id="logo_links" rowspan="2" />
+
+		<td id="logo_rechts_oben">{% block login %}{% endblock %}</td>
+
+		<td id="rechts" rowspan="6" />   
+        </tr>
+	<tr>
+		<td id="logo_rechts_unten" />	
+	</tr>
+	<tr>
+		<td  id="menu" colspan="2">
+		<center>
+		  <a href="/" class="menu">Home</a> &nbsp;&nbsp;&nbsp;
+                  <a href="/kurse/" class="menu">Kurse</a>&nbsp;&nbsp;&nbsp;
+                  <a href="/t2c/text/list" class="menu">Theorie</a>&nbsp;&nbsp;&nbsp;
+		  <a href="/aboutus/" class="menu">About Us</a>
+
+		</center>
+		</td>
+	</tr>
+	<tr>
+		<td id="main" colspan="2" valign="top">
+				<table>
+					<tr>
+						<td colspan="2 "valign="top">
+ 							<div id="white_box1">
+								<div id="body">
+								    {% if messages %}
+									<ul id="messages">
+									    {% for message in messages %}
+									    <li id="message_{{ forloop.counter }}"><a href="#" onclick="$('#message_{{ forloop.counter }}').fadeOut(); return false;"><small>{% trans "clear" %}</small></a> {{ message }}</li>
+									    {% endfor %}
+									</ul>
+								    {% endif %}
+								    
+								    {% block body %}
+								    {% endblock %}
+								</div>
+				                        </div>
+					  </td>
+					<tr>
+						<td valign="top">
+							<div class="white_box2">
+								<form class="nt" action="http://www.newstroll.de/app/sub/" method="post">
+								<fieldset class="nt_fs">
+								<legend class="nt_head">Newsletter</legend>
+								<div class="formCell" >
+									<label class="left" for="email" >E-Mail:</label>
+									<input class="nt_input" type="text" name="email" id="email"  />
+
+								</div><input type="hidden" name="gruppe[]" value="51625" />
+								<p class="button">
+									<input name="optin" type="submit" value="Anmelden" class="button"  />
+								</p>
+								</fieldset>
+								</form>
+							</div>
+							<div class="white_box2">
+								{% if site_wide_announcements %}
+								    <div id="site_wide_announcements">
+									<ul>
+									    {% for announcement in site_wide_announcements %}
+									    <li>
+										<a href="{{ announcement.get_absolute_url }}">{{ announcement }}</a> -
+										<a href="{% url announcement_hide announcement.pk %}?next={{ request.path }}">{% trans "Hide announcement" %}</a>
+									    </li>
+									    {% endfor %}
+									</ul>
+								    </div>
+								{% endif %}
+								<p>Die Seite befindet sich im Aufbau und wird ständig aktualisiert.</p>
+							</div>
+						</td>
+						<td valign="top">
+						{% block right_box %} {% endblock %}
+					        </td>
+				</tr>
+		  <table><tr><td><div id="footer">{% block footer %}{% endblock %}</div></td></tr></table>
+	          </table>	  
+	     </td>
+	</tr>
+
+</center>
+</table>
+
+
+{% block extra_body %}
+{% endblock %}
+
+</body>
 </html>
